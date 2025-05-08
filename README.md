@@ -22,10 +22,7 @@ A desktop-based Task Manager application built using **Java Swing**, designed to
 - **Java Collections** (`ArrayList`) for storing and managing tasks
 
 ## 📂 Project Structure
-TaskManager/
-├── Task.java # Defines task attributes and logic
-├── TaskManager.java # Manages task collection (add, list, remove)
-├── TaskManagerGUI.java # Main GUI interface for interaction
+![image](https://github.com/user-attachments/assets/514e75b5-af86-4640-b8e6-07342ba9d777)
 
 
 ## 🛠️ How to Run
